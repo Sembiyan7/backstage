@@ -18,7 +18,7 @@ metadata:
     backstage.io/techdocs-ref: dir:.
     lighthouse.com/website-url: https://backstage.io
     dashboard/name: valuedashboard|Value Dashboard,test|Test
-    dashboard/url: valuedashboard|https://comcast.grafana.net/api/search?type=dash-db&tag=Comet,test|https://redash.cube.comcast.com/public/dashboards/AwJoQJmQNeF0Z8hKem5pKUxTklXwhfwGqPuG4xrl?org_slug=default
+    dashboard/url: valuedashboard|https://comcast.grafana.net/api/search?type=dash-db&tag=Come,test|https://redash.cube.comcast.com/public/dashboards/AwJoQJmQNeF0Z8hKem5pKUxTklXwhfwGqPuG4xrl?org_slug=default
     dashboard/prefix: valuedashboard,test
 spec:
   type: library
