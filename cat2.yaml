@@ -20,9 +20,6 @@ metadata:
     dashboard/name: valuedashboard|Value Dashboard,test|Test
     dashboard/url: valuedashboard|https://comcast.grafana.net/api/search?type=dash-db&tag=Comet,test|https://redash.cube.comcast.com/public/dashboards/AwJoQJmQNeF0Z8hKem5pKUxTklXwhfwGqPuG4xrl?org_slug=default
     dashboard/prefix: valuedashboard,test
-    grafana/token: secret_token,
-    grafana/target: https://comcast.grafana.net,
-    grafana/tag-selector: XVS
 spec:
   type: library
   owner: CNCF
